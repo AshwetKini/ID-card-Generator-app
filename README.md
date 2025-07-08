@@ -1,3 +1,11 @@
+npm install
+install expo 
+document picker
+
+
+
+
+
 Preview
 
 ![HOmescreen](https://github.com/user-attachments/assets/1b428d45-ed5b-4831-81bf-b3b228bbc253)
